@@ -48,6 +48,5 @@ Contributions to py3sort are welcome! If you have ideas for enhancements or find
 ## Acknowledgments
 
 The py3sort project draws inspiration from various sources and contributors in the field of sorting algorithms. A big thank you to all those who have shared their knowledge and insights!
-```
 
 This README.md now refers to the package as `py3sort` throughout the document.
