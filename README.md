@@ -2,6 +2,10 @@
 
 py3sort is a Python package providing a comprehensive suite of efficient sorting algorithms. Designed to offer developers a wide array of sorting techniques, py3sort simplifies the process of organizing data structures with its collection of well-implemented algorithms.
 
+<div align="center">
+  <img src="https://i.imgur.com/72ZDIjn.png" alt="Enigma Guard" width="800">
+</div>
+
 ## Installation
 
 You can install py3sort via pip:
